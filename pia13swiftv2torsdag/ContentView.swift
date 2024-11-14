@@ -19,7 +19,7 @@ struct ContentView: View {
         .padding()
     }
     func myfunc(){
-        // Now it is working!!!
+        // Now it is even better working!!!
     }
 }
 
