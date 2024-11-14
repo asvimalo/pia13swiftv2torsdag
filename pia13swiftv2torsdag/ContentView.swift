@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+// FIxa bug fix i plublicerat version
 
 struct ContentView: View {
     var body: some View {
